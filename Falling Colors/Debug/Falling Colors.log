@@ -1,0 +1,9 @@
+﻿  window.cpp
+C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\window.cpp(93,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\window.cpp(93,42): warning C4244:         with
+C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\window.cpp(93,42): warning C4244:         [
+C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\window.cpp(93,42): warning C4244:             T=unsigned int
+C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\window.cpp(93,42): warning C4244:         ]
+C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\window.cpp(106,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\window.cpp(180,22): warning C4018: '<': signed/unsigned mismatch
+  Falling Colors.vcxproj -> C:\Users\thijs\Documents\Visual Studio 2022\Falling Colors\Debug\Falling Colors.exe
